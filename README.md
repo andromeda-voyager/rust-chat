@@ -1,8 +1,9 @@
-# rust-chat
-Local network chat application
+# Rust Chat
+Local network chat application written in Rust.
 
-# run and connect to a server
- cargo run client
- 
- # run and listen for a client
- cargo run server
+## Quickstart
+
+### Run 
+`cargo run server` to run a server and listen for client connections.  
+
+`cargo run client` to run a client and connect to a server.
